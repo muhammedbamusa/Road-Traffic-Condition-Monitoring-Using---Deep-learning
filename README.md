@@ -60,9 +60,3 @@ The dataset consists of labeled images representing different traffic conditions
 - A trained CNN model that classifies traffic conditions.
 - A GUI-based tool to analyze road traffic images.
 - Graphical representation of model accuracy and loss.
-
-## Contributors
-- Your Name (your.email@example.com)
-
-## License
-This project is licensed under the MIT License.
